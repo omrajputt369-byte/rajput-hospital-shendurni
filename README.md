@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Rajput Hospital Banner](/Users/0mrajput/.gemini/antigravity/brain/8de60328-c720-4ba5-9ef2-e10cb03be7b6/uploaded_image_1766846037814.jpg)
+![Rajput Hospital Banner](assets/hero-banner.jpg)
 
 **Healing with Tradition & Modern Science**
 
@@ -157,7 +157,7 @@ This project is deployed on **Vercel** with serverless functions handling the ba
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](/Users/0mrajput/.gemini/antigravity/brain/8de60328-c720-4ba5-9ef2-e10cb03be7b6/uploaded_image_1766846037814.jpg)
+![Home Page](assets/hero-banner.jpg)
 
 *Healing with Tradition & Modern Science - Over 15 years of trusted medical expertise*
 
