@@ -6,7 +6,7 @@
 
 **Healing with Tradition & Modern Science**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://eloquent-sunshine-630f27.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://rajput-hospital-shendurni.netlify.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com)
@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Om Rajput**
 
 - GitHub: [@omrajputt369-byte](https://github.com/omrajputt369-byte)
-- Website: [eloquent-sunshine-630f27.netlify.app](https://eloquent-sunshine-630f27.netlify.app/)
+- Website: [rajput-hospital-shendurni.netlify.app](https://rajput-hospital-shendurni.netlify.app/)
 
 ## 🙏 Acknowledgments
 
@@ -203,6 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made By om  for Rajput Hospital Shendurni**
 
-[Visit Website](https://eloquent-sunshine-630f27.netlify.app) • [Report Bug](https://github.com/omrajputt369-byte/rajput-hospital-shendurni/issues) • [Request Feature](https://github.com/omrajputt369-byte/rajput-hospital-shendurni/issues)
+[Visit Website](https://rajput-hospital-shendurni.netlify.app) • [Report Bug](https://github.com/omrajputt369-byte/rajput-hospital-shendurni/issues) • [Request Feature](https://github.com/omrajputt369-byte/rajput-hospital-shendurni/issues)
 
 </div>
