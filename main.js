@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             submitBtn.disabled = true;
 
             try {
-                const response = await fetch('/api/appointments', {
+                const response = await fetch('/.netlify/functions/appointments', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'

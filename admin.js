@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Fetch Appointments
     async function fetchAppointments() {
         try {
-            const response = await fetch('/api/appointments');
+            const response = await fetch('/.netlify/functions/appointments');
             const appointments = await response.json();
             renderTable(appointments);
         } catch (error) {
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <td>${appt.phone}</td>
                 <td>${appt.reason}</td>
                 <td>
-                    <button class="btn-delete" onclick="deleteAppointment(${appt.id})">Delete</button>
+                    <button class="btn-delete" onclick="deleteAppointment('${appt._id}')">Delete</button>
                 </td>
             `;
             tableBody.appendChild(row);
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!confirm('Are you sure you want to delete this appointment?')) return;
 
         try {
-            const response = await fetch(`/api/appointments/${id}`, {
+            const response = await fetch(`/.netlify/functions/delete-appointment/${id}`, {
                 method: 'DELETE'
             });
             const result = await response.json();

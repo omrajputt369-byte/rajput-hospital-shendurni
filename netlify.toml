@@ -1,6 +1,10 @@
 [build]
   publish = "."
   command = "echo 'No build needed - static site'"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
 
 [[redirects]]
   from = "/*"
